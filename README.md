@@ -5,6 +5,10 @@ Aplicação web simples que consome a **API pública do seriado Rick and Morty**
 Ao clicar na foto de um personagem, são exibidas informações detalhadas como espécie, status e planeta de origem.
 
 ---
+## 🌐 Projeto Online
+Acesse a versão publicada pelo GitHub Pages:  
+👉 [https://vitorknierin.github.io/rick-and-morty-api/](https://vitorknierin.github.io/rick-and-morty-api/)
+
 
 ## 🚀 Tecnologias utilizadas
 
