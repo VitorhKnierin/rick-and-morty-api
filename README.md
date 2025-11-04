@@ -93,20 +93,3 @@ Estudante de Tecnologia em Análise e Desenvolvimento de Sistemas – IFSul Camp
 
 ---
 
-## ☁️ 4. (Opcional) Publicar online
-Se quiser deixar acessível sem precisar rodar localmente:
-
-### 🔹 Via GitHub Pages
-1. No repositório → **Settings → Pages**  
-2. Branch: `main` → Pasta: `/ (root)`  
-3. Clica em **Save**
-
-O GitHub gera uma URL assim:
-
-
-https://vitorknierin.github.io/rick-and-morty-api/
-
-
-### 🔹 Ou via Firebase Hosting (se preferir manter tudo lá)
-firebase init hosting
-firebase deploy --only hosting
