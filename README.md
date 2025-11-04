@@ -1,15 +1,3 @@
-## 🧩  Estrutura do projeto
-
-Teu projeto deve ter algo assim:
-
-rick-and-morty/
-  index.html
-  style.css
-  script.js
-  assets/   (opcional - ícones, logo, etc)
-  README.md
-
-
 
 # 👽 Rick and Morty Explorer
 
